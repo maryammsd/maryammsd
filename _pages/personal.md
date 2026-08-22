@@ -7,6 +7,9 @@ redirect_from:
   - /resume
 ---
 ## Training and Voluntary Experience
+* **[Enginuity Day](https://www.auckland.ac.nz/en/engineering/study-with-us/women-in-engineering/enginuity.html), University of Auckland, New Zealand, 2026.**<br>
+An Enginuity is a once-a-year opportunity for secondary school girls to explore the possibility of a career as an engineer during a day of activities at the University of Auckland’s Faculty of Engineering and Design. In this day, I lead a software engineering workshop to teach young students what software engineering is, how they can solve engineering tasks with coding and vibe-coding.  
+
 * **[Mental Health First Aid](https://www.mhfa.com.au/) (MHFA), [Mental Health  Association](https://www.mhahk.org.hk/), Hong Kong, 2024.**<br>
 To prepare myself to assist individuals experiencing mental health challenges such as anxiety and depression, I completed training at the Hong Kong University of Science and Technology and obtained my Mental Health First Aid certificate.
   
